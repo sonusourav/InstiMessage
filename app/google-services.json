@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799086161627",
+    "firebase_url": "https://instimessage-sonu.firebaseio.com",
+    "project_id": "instimessage-sonu",
+    "storage_bucket": "instimessage-sonu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799086161627:android:3e9c8e16c582e421",
+        "android_client_info": {
+          "package_name": "iitdh.sonusourav.InstiMessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799086161627-c32ka77agabekj1ff6ieit987v75moe4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iitdh.sonusourav.InstiMessage",
+            "certificate_hash": "b1f1e18e51b1790393538a9466572dec40ca0536"
+          }
+        },
+        {
+          "client_id": "799086161627-n3qu4ili60te2l24q6mju4naa5emcnae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGivd1DegPE1Qj5x572yadSG7ZcpdV5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799086161627-n3qu4ili60te2l24q6mju4naa5emcnae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

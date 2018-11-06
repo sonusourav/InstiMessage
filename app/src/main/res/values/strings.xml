@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">InstiMessage</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_register">New user, tap here to register !</string>
+    <string name="register">Register</string>
+    <string name="user_successfully_added">User successfully added!</string>
+    <string name="user_unable_to_add">Unable to add user!</string>
+    <string name="adding_user_to_db">Adding user to database.</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="remember_me">Remember me</string>
+    <string name="or_login_using">Or login using</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password_instruction">We just need your registered email id\n to send you reset instructions.</string>
+    <string name="registered_email_id">Registered email id</string>
+    <string name="back_to_login_page"><![CDATA[<< Back to Login page]]></string>
+    <string name="reset_password">Reset Password</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="login_here">  <u> Login here!</u></string>
+
+    <string name="username">Username</string>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+    <string-array name="examples">
+        <item>Hi User</item>
+        <item>This is</item>
+        <item>Made by Sonu Sourav</item>
+    </string-array>
+
+
+    <string name="tab1">CALLS</string>
+    <string name="tab2">CHATS</string>
+    <string name="tab3">CONTACTS</string>
+    <string name="action_search">Search</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_new_group">New Group</string>
+    <string name="action_new_broadcast">New broadcast</string>
+    <string name="action_whatsapp_web">WhatsApp Web</string>
+    <string name="action_starred_messages">Starred messages</string>
+    <string name="action_status">Status</string>
+    <string name="action_clear_call_log">Clear call log</string>
+    <string name="action_calls">Calls</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_without_icon">Without Icon</string>
+    <string name="action_with_icon">With Icon</string>
+    <string name="action_custom">Custom Tab</string>
+
+    <string name="about">About</string>
+    <string name="login_success">login success</string>
+    <string name="Username">Email</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="go">GO</string>
+    <string name="repeat_password">Repeat Password</string>
+
+    <string name="wrong_email_or_pass">Wrong email or password</string>
+
+    <string name="hint_username">Enter a new username</string>
+    <string name="hint_email_reset">Enter your email</string>
+    <string name="enter_group_name">Enter group name</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">InstiMessage</string>
+    <string name="slide_1_desc">Welcome to IIT Dharwad Messenger</string>
+    <string name="slide_2_title">Direct Message</string>
+    <string name="slide_2_desc">One to one chat </string>
+    <string name="slide_3_title"> You are Anonymous </string>
+    <string name="slide_3_desc">Invisibly make your chat visible</string>
+</resources>
